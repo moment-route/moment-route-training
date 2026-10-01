@@ -5,9 +5,9 @@ class ProfileScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const name = '연습생';
-    const role = 'Moment Route 팀원';
-    const status = '아직 준비되지 않았어요';
+    const name = '이지우';
+    const role = 'Moment Route 리더';
+    const status = '협업 연습 중';
 
     return ListView(
       padding: const EdgeInsets.fromLTRB(24, 32, 24, 24),
